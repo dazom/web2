@@ -5,6 +5,10 @@
 .ridi {
   font-family : "RIDIBatang", "New Consolata", monospace;
 }
+img {
+  display: block;
+  margin: 0px auto;
+}
 a {
   color : green;
   text-decoration : none;
